@@ -12,7 +12,7 @@ Deploy disponível em: https://sleepy-wave-09569.herokuapp.com
 
 Para executar (aplicação está disponível em deploy), execute sequencialmente:
 ```bash
-git clone https://github.com/insper-tecnologias-web/projeto-2-tiki-taka
+git clone https://github.com/niveaabreu/Tiki-Taka-Backend
 
 python3 -m venv env
 
